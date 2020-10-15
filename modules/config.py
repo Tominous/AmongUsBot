@@ -47,7 +47,7 @@ delay_voting = 0 # adjust time delay for when voting is ended to when the round 
 # time_delay is added or taken away from the delay set between when the screen 
 # shows imposter, crewmate, or vote ended to when the round starts
 
-debug_mode = False #Shows parsed output coming from image to text algorithm
+debug_mode = True #Shows parsed output coming from image to text algorithm
 
 # -------------------------------------------------
 
